@@ -34,7 +34,7 @@ A modern, responsive URL shortening application built with Next.js that allows u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Saad135768/url-shortner
+git clone [https://github.com/Saad135768/url-shortner](https://github.com/Saad135768/curricularbwg)
 cd url-shortener
 ```
 
